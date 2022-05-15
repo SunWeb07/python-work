@@ -1,4 +1,4 @@
-'''def add(a,b):
+def add(a,b):
     return a+b
 def div(a,b):
     return a/b
@@ -24,7 +24,7 @@ elif(c=='**'):
     print(pow(a,b))
 else:
     print('wrong operation performed')
-    '''
+   
 
 
 arr=[1,2,3]
